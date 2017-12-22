@@ -25,6 +25,18 @@ Here are the requirements;
 
 #### Approved statistics courses
 
+- SOC 345, 
+- PSY 226, 
+- GEH 245, 
+- ECO 302, 
+- BUS 303, 
+- BIO 240,  
+- HSD 269, 
+- MAT 301, 
+- MAT 327, 
+- MAT 330 
+- or another course approved by the program
+
 #### Approved electives
 - Soc 339 American Demography
 - Gep 330 Spatial Statistics and Advanced Quantitative Methods in Geography
@@ -34,4 +46,5 @@ Here are the requirements;
 - MAT 327 Statistical Inference
 - MAT 349 Operations Research
 - CMP 446 Computational Tools for Bioinfomatics
-- Or course approved by the program. Independent studies must present a proposal that explains the relationship to data science.
+- Or course approved by the program. Independent studies must present a proposal that explains
+the relationship to data science.
