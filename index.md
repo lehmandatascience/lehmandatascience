@@ -14,7 +14,7 @@ You can also learn R this Spring in SOC 345 and SOC 339.
 
 March 5:
 
-Women in Data Science Conference:(https://lehmandatascience.github.io/lehmandatascience/events)
+Women in Data Science [Conference](./events)
 
 ### Coming this spring: A minor!
 
