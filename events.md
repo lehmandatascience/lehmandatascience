@@ -6,3 +6,6 @@ This is a fantastic conference at [Stanford]: http://www.widsconference.org/ and
 all day, with live speakers from 10 to 12 and 3:30 to 5 in the Music Building.
 
 More details are coming, but you are welcome to sign up now to get information: https://www.meetup.com/Bronx-Big-Data-Meetup/
+
+
+[Home](./index)
