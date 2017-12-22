@@ -11,7 +11,10 @@ Sociology majors can also take this course as *SOC 251 Special Topics, Data Scie
 You can also learn R this Spring in SOC 345 and SOC 339.
 
 ### Upcoming events
-[Women in Data Science]:(https://lehmandatascience.github.io/lehmandatascience/events)
+
+March 5:
+
+Women in Data Science Conference:(https://lehmandatascience.github.io/lehmandatascience/events)
 
 ### Coming this spring: A minor!
 
