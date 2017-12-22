@@ -25,15 +25,15 @@ Here are the requirements;
 
 #### Approved statistics courses
 
-- SOC 345, 
-- PSY 226, 
-- GEH 245, 
-- ECO 302, 
-- BUS 303, 
-- BIO 240,  
-- HSD 269, 
-- MAT 301, 
-- MAT 327, 
+- SOC 345 
+- PSY 226 
+- GEH 245 
+- ECO 302 
+- BUS 303 
+- BIO 240  
+- HSD 269 
+- MAT 301 
+- MAT 327 
 - MAT 330 
 - or another course approved by the program
 
