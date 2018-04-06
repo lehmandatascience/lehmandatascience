@@ -10,16 +10,12 @@ Sociology majors can also take this course as *SOC 251 Special Topics, Data Scie
 
 You can also learn R this Spring in SOC 345 and SOC 339.
 
-### Upcoming events
-
-March 5:
-
-[Women in Data Science Conference](./events)
+(./events)
 
 ### Coming this spring: A minor!
 
 Sometime this spring we expect that our new "Interdisciplinary Minor in Data Science Methods and Applications" will 
-become official.  In the meantime you can start taking the courses.
+become official.  In the meantime you can start taking the courses. Update: The minor has been approved by the Lehman College Senate!
 
 Here are the requirements;
 
