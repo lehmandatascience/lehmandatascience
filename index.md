@@ -5,10 +5,12 @@ There's a lot of data science going on at Lehman College!
 Courses in many departments include data science material, such as learning R or Python, working with real world data,
 and doing original projects. 
 
-This spring you can take our newest course: *Math 128 Foundations of Data Science*  with Prof. Megan Owen.  
-Sociology majors can also take this course as *SOC 251 Special Topics, Data Science for Sociology*.
+This past spring we offered: *Math 128 Foundations of Data Science*  with Prof. Megan Owen.  It will be 
+offered again in Spring 2019.
 
-You can also learn R this Spring in SOC 345 and SOC 339.
+In Fall 2018 we will offer: SOC 3470 Reasoning with data.
+
+You can also learn R this Spring in SOC 345 and other classes.
 
 (./events)
 
