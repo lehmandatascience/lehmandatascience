@@ -5,15 +5,15 @@ There's a lot of data science going on at Lehman College!
 Courses in many departments include data science material, such as learning R or Python, working with real world data,
 and doing original projects. 
 
-This coming spring we are offering: *Math 128 Foundations of Data Science*  with Prof. Megan Owen.  
+This spring we are offering: *Math 128 Foundations of Data Science*  with Prof. Megan Owen.  
 
-In Fall 2018 we are offering: SOC 3470 Reasoning with data.
+In Fall 2019 we will offer both Math 128 and SOC 3470 Reasoning with data.
 
 You can also learn R in SOC 345 and other classes (such as American Demography).
 
 (./events)
 
-### New in Fall 2018: A minor!
+### The minor!
 
 Our new "Interdisciplinary Minor in Data Science Methods and Applications" is now 
 official.  You can sign up for it using iDeclare.
